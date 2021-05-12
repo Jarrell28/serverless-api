@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [Deployed Link](https://7mcxjj0x22.execute-api.us-east-2.amazonaws.com/people)
-- [Pull Request](http://xyz.com)
+- [Pull Request](https://github.com/Jarrell28/serverless-api/pull/1)
 
 ### Setup
 
