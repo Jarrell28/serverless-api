@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [Deployed Link](https://7mcxjj0x22.execute-api.us-east-2.amazonaws.com/people) (GitHub Actions)
-- [Pull Request](http://xyz.com) (when applicable)
+- [Deployed Link](https://7mcxjj0x22.execute-api.us-east-2.amazonaws.com/people)
+- [Pull Request](http://xyz.com)
 
 ### Setup
 
