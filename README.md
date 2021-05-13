@@ -15,7 +15,15 @@ A simple serverless api using AWS API Gateway, DynamoDB, and Lambda functions.
 
 **API Root URL** - https://7mcxjj0x22.execute-api.us-east-2.amazonaws.com/
 
-**GET /people** - Will return a list of people objects stored in our database
+**GET /people** - Will return a list of people records stored in our database
+
+**GET /people/{id}** - Will return a single person's record
+
+**POST /people** - Will create a new person's record. Must provide a body with name and phone key value pairs
+
+**PUT /people/{id}** - Will update a single person's record and return the updated record. Must provide a body with name and phone key value pairs
+
+**DELETE /people/{id}** - Will delete a single person's record
 
 #### UML / Application Wiring Diagram
 
