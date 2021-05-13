@@ -2,6 +2,8 @@
 
 ## Serverless Api
 
+A simple serverless api using AWS API Gateway, DynamoDB, and Lambda functions. 
+
 ### Jarrell Houston
 
 ### Links and Resources
@@ -9,24 +11,11 @@
 - [Deployed Link](https://7mcxjj0x22.execute-api.us-east-2.amazonaws.com/people)
 - [Pull Request](https://github.com/Jarrell28/serverless-api/pull/1)
 
-### Setup
+### How it works
 
-#### `.env` requirements (when applicable)
+**API Root URL** - https://7mcxjj0x22.execute-api.us-east-2.amazonaws.com/
 
-i.e.
-
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
-
-#### How to initialize/run your application (where applicable)
-
-- e.g. `npm start`
-
-#### Tests
-
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+**GET /people** - Will return a list of people objects stored in our database
 
 #### UML / Application Wiring Diagram
 
